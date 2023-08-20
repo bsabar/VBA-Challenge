@@ -2,11 +2,11 @@
 
 ## Description
 This project uses VBA to analyze generated stock market data. Utilizes script that loops through all the stocks for one year and outputs:
-(1) ticker symbol, 
-(2) yearly change from the opening price at the beginning of a given year to the closing price at the end of that year, 
-(3) the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year and 
-(4) the total stock volume of the stock
-(5) add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
+- ticker symbol
+- yearly change from the opening price at the beginning of a given year to the closing price at the end of that year
+- the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year
+- the total stock volume of the stock
+- add functionality to your script to return the stock with the "Greatest % increase," "Greatest % decrease," and "Greatest total volume"
 
 ## Tools Used
 - `VBA`
